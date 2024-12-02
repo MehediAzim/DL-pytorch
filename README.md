@@ -1,3 +1,3 @@
 # DL-pytorch
 
-Implementation of of "Deep learnig with pytroch" course from Codemy.com youtube tutorial series 
+Implementations of the codes from the "Deep Learning with PyTorch" course by Codemy.com in their YouTube tutorial series.
